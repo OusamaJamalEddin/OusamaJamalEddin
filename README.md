@@ -47,11 +47,9 @@ I have earned **4 certifications** across various tech domains. [**View Certific
 
 ### 📬 Contact Me
 
-- 📸 **Instagram**: *(Link to be added)*
-- 📧 **Email**: *(Link to be added)*
-- ☎️ **Phone**: *(To be added)*
+- 📧 **Email**: *ossama.jamal.aldien@gmail.com*
+- ☎️ **Phone**: *+905551957963*
 
-⚫ *Dark theme lovers, rejoice!* 🌑
 
 ---
 
