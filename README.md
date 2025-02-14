@@ -45,7 +45,7 @@ I have earned **4 certifications** across various tech domains.
 -  The Bits and Bytes of Computer Networking
 - Technical Support Fundamentals
 - Foundations of Cybersecurity
-- MATLAB Certificate -> https://matlabacademy.mathworks.com/progress/share/certificate.html?id=17de5172-e072-4c63-a228-b2ec682f5592&
+- MATLAB Certificate -> [https://matlabacademy.mathworks.com/progress/share/certificate.html?id=17de5172-e072-4c63-a228-b2ec682f5592&](https://shorturl.at/p1GQW)
 - [**View Certificates**](https://github.com/OusamaJamalEddin/Certificates.git)
 
 
