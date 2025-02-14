@@ -42,10 +42,12 @@ Greetings! I'm **Ousama Jamal Eddin**, a passionate **Software Engineer** with a
 ### 🎓 Certifications
 
 I have earned **4 certifications** across various tech domains.
-1-  The Bits and Bytes of Computer Networking
-2- Technical Support Fundamentals
-3- Foundations of Cybersecurity
-[**View Certificates**]([#](https://github.com/OusamaJamalEddin/Certificates.git))
+-  The Bits and Bytes of Computer Networking
+- Technical Support Fundamentals
+- Foundations of Cybersecurity
+- MATLAB Certificate
+- [**View Certificates**]([#](https://github.com/OusamaJamalEddin/Certificates.git))
+
 
 ---
 
