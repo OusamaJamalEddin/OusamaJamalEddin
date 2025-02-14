@@ -41,7 +41,7 @@ Greetings! I'm **Ousama Jamal Eddin**, a passionate **Software Engineer** with a
 
 ### 🎓 Certifications
 
-I have earned **4 certifications** across various tech domains. [**View Certificates**](#)
+I have earned **4 certifications** across various tech domains. [**View Certificates**]([#](https://github.com/OusamaJamalEddin/Certificates.git))
 
 ---
 
