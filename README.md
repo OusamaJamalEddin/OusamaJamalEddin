@@ -45,10 +45,17 @@ I have earned **4 certifications** across various tech domains. [**View Certific
 
 ---
 
+### 📄 Resume
+
+[**Download My Resume**](https://github.com/OusamaJamalEddin/CV.git)
+
+---
+
 ### 📬 Contact Me
 
 - 📧 **Email**: *ossama.jamal.aldien@gmail.com*
 - ☎️ **Phone**: *+905551957963*
+
 
 
 ---
