@@ -31,6 +31,7 @@ Greetings! I'm **Ousama Jamal Eddin**, a passionate **Software Engineer** with a
 
 - 📱 **Expense Tracker** *(Flutter)*
 - 🎯 **Quiz App** *(Flutter)*
+- 🍔 **Meals App (Menu)** *(Flutter)*
 - 🕹️ **Flappy Bird Clone** *(Unity, C#)*
 - 🔐 **Password Generator** *(Python)*
 - 🧠 **Hangman Game** *(Python)*
