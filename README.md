@@ -44,12 +44,13 @@ Greetings! I'm **Ousama Jamal Eddin**, a passionate **Software Engineer** with a
 
 ### 🎓 Certifications
 
-I have earned **4 certifications** across various tech domains.
--  The Bits and Bytes of Computer Networking
+I have earned **5 certifications** across various tech domains.
+- The Bits and Bytes of Computer Networking
 - Technical Support Fundamentals
 - Foundations of Cybersecurity
-- MATLAB Certificate -> (https://shorturl.at/p1GQW)
+- Flutter & Dart - The Complete Guide [2025 Edition]
 - [**View Certificates**](https://github.com/OusamaJamalEddin/Certificates.git)
+- MATLAB Certificate -> (https://shorturl.at/p1GQW)
 
 
 ---
