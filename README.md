@@ -19,7 +19,8 @@ Greetings! I'm **Ousama Jamal Eddin**, a passionate **Software Engineer** with a
 
 ### 🚀 Technical Skills
 
-- **Flutter**: Mobile app development (Dart)
+- **Flutter**: Mobile/Web app development (Dart)
+- **Firebase**: Backend handling
 - **Python**: ML models, automation, games
 - **C++ / C**: Low-level programming
 - **C#**: Unity game development
@@ -32,6 +33,7 @@ Greetings! I'm **Ousama Jamal Eddin**, a passionate **Software Engineer** with a
 - 📱 **Expense Tracker** *(Flutter)*
 - 🎯 **Quiz App** *(Flutter)*
 - 🍔 **Meals App (Menu)** *(Flutter)*
+- 💬 **Chat App** *(Flutter)*
 - 🕹️ **Flappy Bird Clone** *(Unity, C#)*
 - 🔐 **Password Generator** *(Python)*
 - 🧠 **Hangman Game** *(Python)*
